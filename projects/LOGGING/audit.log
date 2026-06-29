@@ -1,0 +1,7 @@
+2026-06-29 15:00:56,400 | INFO | Cloud Security Audit Started
+2026-06-29 15:00:56,401 | INFO | Scanning IAM Users
+2026-06-29 15:00:56,401 | WARNING | User John has MFA Disabled
+2026-06-29 15:00:56,401 | INFO | Scanning S3 Buckets
+2026-06-29 15:00:56,401 | WARNING | Public Bucket Found: company-backup
+2026-06-29 15:00:56,401 | INFO | Generating Security Report
+2026-06-29 15:00:56,402 | INFO | Cloud Security Audit Completed
