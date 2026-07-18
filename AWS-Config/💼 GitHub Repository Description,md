@@ -1,0 +1,15 @@
+Day 16 of my Cloud Security Journey 🚀
+
+This repository covers AWS Config, the AWS service for configuration management and compliance. It includes detailed notes, interview questions, architecture, compliance concepts, Config Rules, and real-world cloud security use cases.
+
+Topics Covered:
+• AWS Config
+• Configuration Items
+• Configuration History
+• Managed Rules
+• Custom Rules
+• Compliance Monitoring
+• CloudTrail vs CloudWatch vs AWS Config
+• Interview Questions
+
+Part of my journey toward becoming a Cloud Security Engineer.
